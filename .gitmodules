@@ -1,0 +1,6 @@
+[submodule "balena-adguard"]
+	path = balena-adguard
+	url = https://github.com/ashishsantikari/balena-adguard.git
+[submodule "air-pi-play"]
+	path = air-pi-play
+	url = https://github.com/ashishsantikari/air-pi-play.git
